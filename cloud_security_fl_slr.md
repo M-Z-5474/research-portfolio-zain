@@ -1,7 +1,7 @@
 # Enhancing Cloud Security through Federated Learning: A Systematic Review of Threat Mitigation, Privacy Preservation, and AI-Driven Defenses
 
 **Type:** Systematic Literature Review (SLR)  
-**Status:** Client-Based Work 
+**Status:** Client-Based Work  
 **Year:** 2025
 
 ---
