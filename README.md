@@ -25,14 +25,14 @@ An SLR reviewing FL’s application in defending against adversarial attacks and
 ### 5. [Cognitive and Neural Correlates of Gambling Behavior](gambling_behavior_analysis.md)
 Investigates fMRI patterns and Brodmann areas involved in high-risk decision-making and gambling addiction using ML classification.
 
----
+
 
 ## 🧾 License
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.  
 See the full [LICENSE.md](LICENSE.md) for details.
 
----
+
 
 ## 📬 Contact
 
