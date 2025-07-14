@@ -1,3 +1,5 @@
+![banner](assets/research-portfolio-banner.png)
+
 # 📚 Research Portfolio – Muhammad Zain Mushtaq
 
 Welcome to my research portfolio. This repository showcases a collection of abstracts and summaries from five research papers and systematic literature reviews (SLRs) that I have authored or contributed to. These works reflect my academic and professional experience in domains such as Artificial Intelligence (AI), Mental Health Prediction, Federated Learning, Cloud Security, Education, and Cognitive Neuroscience.
