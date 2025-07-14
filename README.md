@@ -35,9 +35,22 @@ See the full [LICENSE.md](LICENSE.md) for details.
 ## 📬 Contact
 
 If you're interested in collaborating, have questions, or want to connect:
+**🙋‍♂️ Author Muhammad Zain Mushtaq**
 
-**📧 Email:** muhammadzain.data@gmail.com  
-**🔗 LinkedIn:** [linkedin.com/in/muhammad-zain-m-a75163358](https://www.linkedin.com/in/muhammad-zain-m-a75163358/)
+🔗 GitHub: https://github.com/M-Z-5474
+
+📧 Email: m.zainmushtaq74@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/muhammad-zain-m-a75163358/
+
+---
+
+## 🌟 Star This Repo!
+
+If you found this helpful, feel free to ⭐ this project.  
+It motivates further contributions and helps others discover this work.
+
+Thank you for visiting! 🙌
 
 ---
 
