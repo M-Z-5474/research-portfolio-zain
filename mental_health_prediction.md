@@ -1,7 +1,7 @@
 # Predicting Mental Health Conditions Using Structured Survey and Unstructured Reddit Data
 
 **Type:** Research Paper  
-**Status:** Client-Based Work
+**Status:** Client-Based Work  
 **Year:** 2025
 
 ---
