@@ -1,4 +1,4 @@
-![banner](assets/research-banner.png)
+![banner](assets/research-banner.jpg)
 
 # 📚 Research Portfolio – Muhammad Zain Mushtaq
 
